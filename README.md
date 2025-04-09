@@ -41,8 +41,8 @@ I enjoy learning new tech and building practical skills around **C++**, **Java**
 
 ## 📊 GitHub Stats
 
-![Sarawer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarawer&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawer&layout=compact&theme=github_dark&hide_border=true)
+ ![Sarawer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarawer&show_icons=true&theme=github_dark&hide_border=true)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawer&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
