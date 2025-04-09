@@ -27,7 +27,6 @@ I enjoy learning new tech and building practical skills around **C++**, **Java**
 
 - 💥 [Codeforces](https://codeforces.com/profile/sarawer)  
 - 🧩 [LeetCode](https://leetcode.com/u/sarawer/)  
-- ⚔️ [CodeChef](https://www.codechef.com/users/sarawer)  
 
 ---
 
