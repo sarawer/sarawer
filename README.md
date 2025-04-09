@@ -9,17 +9,17 @@
 ## 🚀 About Me
 
 I'm passionate about writing efficient code and solving algorithmic problems.  
-Actively participating in contests on platforms like Codeforces, LeetCode, codechef .
+Actively participating in contests on platforms like Codeforces, LeetCode, and CodeChef.
 
-I enjoy learning new tech and building practical skills around C++, java and problem-solving techniques.
+I enjoy learning new tech and building practical skills around **C++**, **Java**, and **problem-solving techniques**.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** C++, java
-- **Tools:** Git, GitHub, VS Code 
-- **Domains:** Data Structures, Algorithms, Problem Solving, CP
+- **Languages:** C++, Java  
+- **Tools:** Git, GitHub, VS Code  
+- **Domains:** Data Structures, Algorithms, Problem Solving, Competitive Programming
 
 ---
 
@@ -27,15 +27,17 @@ I enjoy learning new tech and building practical skills around C++, java and pro
 
 - 💥 [Codeforces](https://codeforces.com/profile/sarawer)  
 - 🧩 [LeetCode](https://leetcode.com/u/sarawer/)  
-- ⚔️ [codechef](https://www.codechef.com/users/sarawer) 
+- ⚔️ [CodeChef](https://www.codechef.com/users/sarawer)  
+
 ---
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sarawer)  
-📫 **Email:(sarawermd@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/md.sarawer.33)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sara.wer_)  
+📫 **Email:** sarawermd@gmail.com
 
 ---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=sarawer&style=flat-square&color=blue)
-
