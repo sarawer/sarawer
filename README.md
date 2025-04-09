@@ -33,7 +33,7 @@ I enjoy learning new tech and building practical skills around C++, java and pro
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sarawer)  
-📫 **Email:** *(add if you want)*
+📫 **Email:(sarawermd@gmail.com)
 
 ---
 
