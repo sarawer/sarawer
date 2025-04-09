@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Sarawer Bhuiyan
 
-<!--
-**sarawer/sarawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at Southeast University  
+🏆 Competitive Programmer | 💻 Problem Solver | 🔍 Algorithm Enthusiast  
+🌍 Dhaka, Bangladesh  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about writing efficient code and solving algorithmic problems.  
+Actively participating in contests on platforms like Codeforces, LeetCode, codechef .
+
+I enjoy learning new tech and building practical skills around C++, java and problem-solving techniques.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** C++, java
+- **Tools:** Git, GitHub, VS Code 
+- **Domains:** Data Structures, Algorithms, Problem Solving, CP
+
+---
+
+## 📌 Platforms
+
+- 💥 [Codeforces](https://codeforces.com/profile/sarawer)  
+- 🧩 [LeetCode](https://leetcode.com/u/sarawer/)  
+- ⚔️ [codechef](https://www.codechef.com/users/sarawer) 
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sarawer)  
+📫 **Email:** *(add if you want)*
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=sarawer&style=flat-square&color=blue)
+
